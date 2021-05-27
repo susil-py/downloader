@@ -1,10 +1,10 @@
 {
-  "name": "torrent-aio-bot",
+  "name": "downloader",
   "description": "All in one bot for torrenting",
   "repository": "https://github.com/susil-py/downloader",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
-    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
+    { "url": "https://github.com/susil-py/puppeteer-heroku-buildpack.git" }
   ]
 }
